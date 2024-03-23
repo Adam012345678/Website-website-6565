@@ -1,0 +1,20 @@
+body {
+  background-image: url(9ba3c9d038d169aeca003781379dc004.jpg);
+}
+
+h1 {
+  font-family: Sans-Serif, bold;
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-family: Sans-Serif, bold;
+  text-align: center;
+  color: white;
+}
+
+a {
+  font-family: Sans-Serif;
+  color: black;
+}
